@@ -14,33 +14,33 @@
  
 - src
    - main
-      -com.DanCreate.loginregisEmail
-          -config 
+      -- com.DanCreate.loginregisEmail
+          - config 
                     - ApplicationConfigAuxiliary
                     - AuthenticationFilter
                     - SecurityConfiguration
-          -controller
+          - controller
                     - AuthenticationController
-          -model
+          - model
                - dtos
-                    - AuthenticateDtos
-                    - RegisterDtos
-                    - TokenType
-                    - User
+                    -- AuthenticateDtos
+                    -- RegisterDtos
+                    -- TokenType
+                    -- User
                - entities
-                    - Role
-                    - Token
-          -reponsitory
+                    -- Role
+                    -- Token
+          - reponsitory
                     - TokenRepository
                     - UserRepository
-          -response
+          - response
                     - AuthTokenResponse
-          -runDemo
+          - runDemo
                     - testController
-          -service
+          - service
                     - LogoutService
                     - AuthenticationService
-          -util
+          - util
                 JwtServiceUtil
 ## End
 Okay,that is all and i'm Dan - P-Minh Huong
