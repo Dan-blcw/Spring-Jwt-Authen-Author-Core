@@ -1,4 +1,4 @@
-## Demo Restful API Security , Role management, token generation, decentralization and validation
+## Demo Restful API Security , Role management, token generation and validation
 
 ## This is an experiment
 
