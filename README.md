@@ -46,9 +46,9 @@
                  -application.properties
 - pom.xml
  -->
- <p align="center">
-  ![image](https://user-images.githubusercontent.com/127305381/226133766-fb7c07f1-bfa0-42ae-9474-26cc9f924112.png)
-</p>
+
+![image](https://user-images.githubusercontent.com/127305381/226133766-fb7c07f1-bfa0-42ae-9474-26cc9f924112.png)
+
 
 ## End
 Okay,that is all and i'm Dan - P-Minh Huong
