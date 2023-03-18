@@ -12,8 +12,8 @@
 
 ## Summary chart
  
--src
-   -main
+- src
+   - main
 
 ## End
 Okay,that is all and i'm Dan - P-Minh Huong
