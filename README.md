@@ -15,32 +15,35 @@
 - src
    - main
       -* com.DanCreate.loginregisEmail
-          -** config 
+          - config 
                     - ApplicationConfigAuxiliary
                     - AuthenticationFilter
                     - SecurityConfiguration
-          -** controller
+          - controller
                     - AuthenticationController
-          -** model
-               -*** dtos
+          - model
+               -* dtos
                     -- AuthenticateDtos
                     -- RegisterDtos
                     -- TokenType
                     -- User
-               -*** entities
+               - entities
                     -- Role
                     -- Token
-          -** reponsitory
+          - reponsitory
                     - TokenRepository
                     - UserRepository
-          -** response
+          - response
                     - AuthTokenResponse
-          -** runDemo
+          - runDemo
                     - testController
-          -** service
+          - service
                     - LogoutService
                     - AuthenticationService
-          -** util
-                JwtServiceUtil
+          - util
+                    - JwtServiceUtil
+
+![image](https://user-images.githubusercontent.com/127305381/226133567-208f420f-4716-4504-85ff-c25a4bb75f6c.png)
+
 ## End
 Okay,that is all and i'm Dan - P-Minh Huong
