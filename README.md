@@ -11,39 +11,42 @@
 - Postgres
 
 ## Summary chart
- 
+<!--  
 - src
-   - main
-      -* com.DanCreate.loginregisEmail
-          - config 
-                    - ApplicationConfigAuxiliary
-                    - AuthenticationFilter
-                    - SecurityConfiguration
-          - controller
-                    - AuthenticationController
-          - model
+     - main
+           -* com.DanCreate.loginregisEmail
+                 - config 
+                            - ApplicationConfigAuxiliary
+                            - AuthenticationFilter
+                            - SecurityConfiguration
+                 - controller
+                            - AuthenticationController
+                 - model
                -* dtos
-                    -- AuthenticateDtos
-                    -- RegisterDtos
-                    -- TokenType
-                    -- User
+                            -- AuthenticateDtos
+                            -- RegisterDtos
+                            -- TokenType
+                            -- User
                - entities
-                    -- Role
-                    -- Token
-          - reponsitory
-                    - TokenRepository
-                    - UserRepository
-          - response
-                    - AuthTokenResponse
-          - runDemo
-                    - testController
-          - service
-                    - LogoutService
-                    - AuthenticationService
-          - util
-                    - JwtServiceUtil
-
-![image](https://user-images.githubusercontent.com/127305381/226133567-208f420f-4716-4504-85ff-c25a4bb75f6c.png)
+                            -- Role
+                            -- Token
+                 - reponsitory
+                            - TokenRepository
+                            - UserRepository
+                 - response
+                            - AuthTokenResponse
+                 - runDemo
+                            - testController
+                 - service
+                            - LogoutService
+                            - AuthenticationService
+                 - util
+                             JwtServiceUtil
+     - resources
+                 -application.properties
+- pom.xml
+ -->
+![image](https://user-images.githubusercontent.com/127305381/226133766-fb7c07f1-bfa0-42ae-9474-26cc9f924112.png)
 
 ## End
 Okay,that is all and i'm Dan - P-Minh Huong
