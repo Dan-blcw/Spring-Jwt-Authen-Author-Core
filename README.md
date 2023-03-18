@@ -12,42 +12,43 @@
 
 ## Summary chart
 <!--  
-- src
-     - main
-           -* com.DanCreate.loginregisEmail
-                 - config 
-                            - ApplicationConfigAuxiliary
-                            - AuthenticationFilter
-                            - SecurityConfiguration
-                 - controller
-                            - AuthenticationController
-                 - model
-               -* dtos
-                            -- AuthenticateDtos
-                            -- RegisterDtos
-                            -- TokenType
-                            -- User
-               - entities
-                            -- Role
-                            -- Token
-                 - reponsitory
-                            - TokenRepository
-                            - UserRepository
-                 - response
-                            - AuthTokenResponse
-                 - runDemo
-                            - testController
-                 - service
-                            - LogoutService
-                            - AuthenticationService
-                 - util
-                             JwtServiceUtil
-     - resources
-                 -application.properties
-- pom.xml
+                                             - src
+                                                  - main
+                                                        -* com.DanCreate.loginregisEmail
+                                                              - config 
+                                                                      - ApplicationConfigAuxiliary.java
+                                                                      - AuthenticationFilter.java
+                                                                      - SecurityConfiguration.java
+                                                              - controller
+                                                                      - AuthenticationController.java
+                                                              - model
+                                                                  - dtos
+                                                                         -- AuthenticateDtos.java
+                                                                         -- RegisterDtos.java
+                                                                         -- TokenType.java
+                                                                         -- User.java
+                                                                  - entities
+                                                                         -- Role.java
+                                                                         -- Token.java
+                                                              - reponsitory
+                                                                      - TokenRepository.java
+                                                                      - UserRepository.java
+                                                              - response
+                                                                      - AuthTokenResponse.java
+                                                              - runDemo
+                                                                      - testController.java
+                                                              - service
+                                                                      - LogoutService.java
+                                                                      - AuthenticationService.java
+                                                              - util
+                                                                          JwtServiceUtil.java
+                                                              -SecurityTestingApplication.java
+                                                  - resources
+                                                              -application.properties
+                                             - pom.xml
  -->
 
-![image](https://user-images.githubusercontent.com/127305381/226133766-fb7c07f1-bfa0-42ae-9474-26cc9f924112.png)
+![image](https://user-images.githubusercontent.com/127305381/226135049-c4daf190-694b-408e-bef8-b1d76e175449.png)
 
 
 ## End
