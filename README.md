@@ -1,4 +1,4 @@
-# Jwt-Authentication-Authorization-Core : Role management, token generation and validation
+Demo Restful API Security , Role management, token generation, decentralization and validation
 
 ## This is an experiment
 - **the purpose is to understand what the core of JWT is, how a miniature spring security configuration works,understand how I configure all the HTTP security for our application, if you are still confused about this, watch it to understand how works, I have a pretty solid explanation of the core parts(for Vietnamese people).
