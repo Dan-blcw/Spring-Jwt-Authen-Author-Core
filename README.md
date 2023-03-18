@@ -6,7 +6,7 @@
 - The ones I use in this test are java, postgres DB, Spring boot, Spring Security, Lombox,JSON Web Tokens (JWT),BCrypt, JPA, Hibernate ...
 ## Prerequisites
 
-- JDK 8
+- JDK 19
 - Maven
 - Postgres
 
