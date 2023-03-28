@@ -22,40 +22,40 @@
 ## Summary chart
 
 ```
-                                             - src
-                                                  - main
-                                                        -* com.DanCreate.loginregisEmail
-                                                              - config 
-                                                                      - ApplicationConfigAuxiliary.java
-                                                                      - AuthenticationFilter.java
-                                                                      - SecurityConfiguration.java
-                                                              - controller
-                                                                      - AuthenticationController.java
-                                                              - model
-                                                                  - dtos
-                                                                         -- AuthenticateDtos.java
-                                                                         -- RegisterDtos.java
-                                                                         -- TokenType.java
-                                                                         -- User.java
-                                                                  - entities
-                                                                         -- Role.java
-                                                                         -- Token.java
-                                                              - reponsitory
-                                                                      - TokenRepository.java
-                                                                      - UserRepository.java
-                                                              - response
-                                                                      - AuthTokenResponse.java
-                                                              - runDemo
-                                                                      - testController.java
-                                                              - service
-                                                                      - LogoutService.java
-                                                                      - AuthenticationService.java
-                                                              - util
-                                                                      - JwtServiceUtil.java
-                                                              - SecurityTestingApplication.java
-                                                  - resources
-                                                              -application.properties
-                                             - pom.xml
+    - src
+      - main
+            -* com.DanCreate.loginregisEmail
+                  - config 
+                          - ApplicationConfigAuxiliary.java
+                          - AuthenticationFilter.java
+                          - SecurityConfiguration.java
+                  - controller
+                          - AuthenticationController.java
+                  - model
+                      - dtos
+                             -- AuthenticateDtos.java
+                             -- RegisterDtos.java
+                             -- TokenType.java
+                             -- User.java
+                      - entities
+                             -- Role.java
+                             -- Token.java
+                  - reponsitory
+                          - TokenRepository.java
+                          - UserRepository.java
+                  - response
+                          - AuthTokenResponse.java
+                  - runDemo
+                          - testController.java
+                  - service
+                          - LogoutService.java
+                          - AuthenticationService.java
+                  - util
+                          - JwtServiceUtil.java
+                  - SecurityTestingApplication.java
+      - resources
+                  -application.properties
+    - pom.xml
 ```
 
 ![image](https://user-images.githubusercontent.com/127305381/226181092-38e60618-e472-42d3-84ca-82f6ebbff838.png)
