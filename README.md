@@ -20,7 +20,8 @@
 }
 ```
 ## Summary chart
-<!--  
+
+```
                                              - src
                                                   - main
                                                         -* com.DanCreate.loginregisEmail
@@ -55,7 +56,7 @@
                                                   - resources
                                                               -application.properties
                                              - pom.xml
- -->
+```
 
 ![image](https://user-images.githubusercontent.com/127305381/226181092-38e60618-e472-42d3-84ca-82f6ebbff838.png)
 
