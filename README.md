@@ -22,9 +22,9 @@
 ## Summary chart
 
 ```
-    - src
-      - main
-            -* com.DanCreate.loginregisEmail
+- src
+     - main
+           -* com.DanCreate.loginregisEmail
                   - config 
                           - ApplicationConfigAuxiliary.java
                           - AuthenticationFilter.java
@@ -53,13 +53,9 @@
                   - util
                           - JwtServiceUtil.java
                   - SecurityTestingApplication.java
-      - resources
+     - resources
                   -application.properties
-    - pom.xml
+- pom.xml
 ```
-
-![image](https://user-images.githubusercontent.com/127305381/226181092-38e60618-e472-42d3-84ca-82f6ebbff838.png)
-
-
 ## End
 Okay,that is all and i'm Dan - P-Minh Huong
