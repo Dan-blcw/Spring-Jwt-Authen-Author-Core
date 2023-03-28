@@ -10,6 +10,15 @@
 - Maven
 - Postgres
 
+## Set request body as raw with JSON payload
+
+{
+    "firstname" : "dan",
+    "lastname" : "blcw",
+    "email" : "dan_blcw@gmail.com",
+    "password" : "475241075"
+}
+
 ## Summary chart
 <!--  
                                              - src
