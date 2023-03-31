@@ -20,7 +20,7 @@
     "password" : "475241075"
 }
 ```
-#### PostRequest Regis
+#### PostRequest Auth-logout
 ```
 {
     "email" : "dan_blcw@gmail.com",
