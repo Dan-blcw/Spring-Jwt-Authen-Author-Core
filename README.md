@@ -29,7 +29,7 @@
 ```
 ## Postman
 #### Get information from demo-controller 
-![image](https://user-images.githubusercontent.com/127305381/228220955-f45d3993-de36-4ab7-9142-dab1d065e8eb.png)
+![image](https://user-images.githubusercontent.com/127305381/229187880-f4c9cada-313f-47e6-a4b4-c98dc0eaec25.png)
 #### NOTE 
 - that in this test i am not using validation sequence so getting information we have to get token then put in and get information from auth
 ## Summary chart
