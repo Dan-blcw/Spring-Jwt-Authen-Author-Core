@@ -11,8 +11,8 @@
 - Postgres
 
 ## Set request body as raw with JSON payload
+#### PostRequest Regis
 ```
--- PostRequest Regis
 {
     "firstname" : "dan",
     "lastname" : "blcw",
@@ -20,15 +20,15 @@
     "password" : "475241075"
 }
 ```
+#### PostRequest Regis
 ```
--- PostRequest Auth-logout
 {
     "email" : "dan_blcw@gmail.com",
     "password" : "475241075"
 }
 ```
 ## Postman
--- Get information from demo-controller 
+#### Get information from demo-controller 
 ![image](https://user-images.githubusercontent.com/127305381/228220955-f45d3993-de36-4ab7-9142-dab1d065e8eb.png)
 ## Summary chart
 
