@@ -45,7 +45,7 @@
 ```
 - src
      - main
-           -* com.DanCreate.loginregisEmail
+           -* com.DanCreate.securityTesting
                   - config 
                           - ApplicationConfigAuxiliary.java
                           - AuthenticationFilter.java
